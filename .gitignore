@@ -1,4 +1,6 @@
-.DS_Store
-.thumbs.db
 node_modules
+package-lock.json
 
+.docker/database/mysql/
+
+.env
